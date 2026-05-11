@@ -37,9 +37,9 @@ The pipeline evaluates multiple classification models, applies **hyperparameter 
       'clf__C': 1
   }
 ## 🔥 Model Evaluation Visuals
-- ![Correlation Heatmap](images/correlation_heatmap.png)
-- ![Confusion Matrix](images/confusion_matrix.png)
-- ![curve plot](images/curve_plot.png)
+- ![Correlation Heatmap](correlation_heatmap.png)
+- ![Confusion Matrix](confusion_matrix.png)
+- ![curve plot](curve_plot.png)
 
 ## 🛠Technologies Used
 - python
