@@ -38,7 +38,7 @@ The pipeline evaluates multiple classification models, applies **hyperparameter 
   }
 ## 🔥 Model Evaluation Visuals
 - ![Correlation Heatmap](correlation_heatmap.png)
-- ![Confusion Matrix](confusion_matrix.png)
+- ![Classification report](classification_report.png)
 - ![curve plot](curve_plot.png)
 
 ## 🛠Technologies Used
